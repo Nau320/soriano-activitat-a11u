@@ -5,15 +5,15 @@
 | Dada      | Valor                                  |
 |-----------|----------------------------------------|
 | Nom       | Arnau Soriano Rodriguez                |
-| Edat      | 30                                     |
+| Edat      | 19                                     |
 | Adreça    | Carrer Fictici, 123, Llinars del Vallés  |
 | Telèfon   | 600 000 000                            |
-| Email     | arnau@example.com                      |
+| Email     | arnausoriano@example.com                      |
 
 ## Formació
 
-- ESO
-- Estic fent SMIX2
+- Educació Secundaria Obligatoria.
+- SMIX2 Actualment Cursant.
 
 ## Experiència professional
 
@@ -24,7 +24,7 @@ Llinars del Vallés
 Agost 2024 - Març 2025
 #### Tasques
 - Atenció al client
-- Gestió d'events
+- Fabricació i elaboració de Pizzes
 - Organització d'espais
 
 ### Ciberespai
@@ -43,8 +43,8 @@ Alemania
 #### Periode
 Estiu 2023 (3 mesos)
 #### Tasques
-- Producció de vidre
-- Supervisió de línies de producció
+- Atenció al client
+- Supervisió de personal
 
 ### DO&CO
 #### Localitat
@@ -62,6 +62,6 @@ Estiu 2024 (3 setmanes)
 |----------|---------|
 | Català   | Nadiu   |
 | Espanyol | Nadiu   |
-| Anglès   | Alt     |
+| Anglès   | C1      |
 | Italià   | B2      |
 
