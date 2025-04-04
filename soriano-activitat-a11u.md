@@ -1,4 +1,4 @@
-# Activitat A11U - Soriano
+git status# Activitat A11U - Soriano
 
 ## Llista de tasques
 
